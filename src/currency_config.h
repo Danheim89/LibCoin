@@ -122,8 +122,8 @@
 
 #define ALLOW_DEBUG_COMMANDS
 
-#define CURRENCY_NAME_BASE                              "Boolberry"
-#define CURRENCY_NAME_SHORT_BASE                        "boolb"
+#define CURRENCY_NAME_BASE                              "libcoin"
+#define CURRENCY_NAME_SHORT_BASE                        "lib"
 #ifndef TESTNET
 #define CURRENCY_NAME                                   CURRENCY_NAME_BASE
 #define CURRENCY_NAME_SHORT                             CURRENCY_NAME_SHORT_BASE
